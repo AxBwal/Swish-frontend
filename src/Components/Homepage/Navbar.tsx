@@ -24,7 +24,7 @@ function Navbar() {
   return (
     <div>
       <div className='flex justify-between items-center px-5 py-3'>
-        <div className='text-3xl text-[#34C363] font-semibold'>Swish</div>
+        <div className='text-4xl text-[#34C363] font-bold'>Swish</div>
 
         <div className='flex gap-5'>
           {
