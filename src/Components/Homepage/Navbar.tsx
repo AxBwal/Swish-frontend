@@ -39,8 +39,8 @@ function Navbar() {
         <div className='flex gap-5 items-center'>
           <div> <Search /></div>
           <div> <ShoppingCart /></div>
-          <Button className="bg-[#34C363] text-white hover:bg-[#2ba352]" variant="outline">Signup</Button>
-          <Button className="bg-[#34C363] text-white hover:bg-[#2ba352]" variant="outline">Login</Button>
+          <Button className="bg-[#34C363] text-white hover:bg-[#2ba352] rounded-full py-5" variant="outline">Signup</Button>
+          <Button className="bg-[#34C363] text-white hover:bg-[#2ba352] rounded-full py-5" variant="outline">Login</Button>
         </div>
       </div>
     </div>
